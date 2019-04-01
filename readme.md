@@ -5,6 +5,7 @@
 <a href="https://github.com/Yeelight/cloud2">
         <img src="https://camo.githubusercontent.com/7f67d6c3ab2cbd5ec0f076984330cc662ab76458/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f417765736f6d652d4c61726176656c2d627269676874677265656e2e7376673f7374796c653d666c61742d737175617265" alt="Awesome Laravel" data-canonical-src="https://img.shields.io/badge/Awesome-Laravel-brightgreen.svg?style=flat-square" style="max-width:100%;">
     </a>
+    <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu"></a>
 <a href="https://github.com/Yeelight/cloud2"><img src="https://poser.pugx.org/yeelight/miot-api/license.svg" alt="License"></a>
 </p>
 ## 简介
